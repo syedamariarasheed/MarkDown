@@ -34,4 +34,4 @@ Content in the first column | Content in the second column | Content in the thir
 Content in the first column | Content in the second column | Content in the third column
 Content in the first column | Content in the second column | Content in the third column
 
-![stack Overflow](C:\Repo\MarkDown\picc.jpg)
+![stack Overflow](https://github.com/syedamariarasheed/MarkDown/blob/master/picc.jpg)
