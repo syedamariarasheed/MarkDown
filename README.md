@@ -10,3 +10,7 @@ Code area
 this is code area
 ```
 [Click Here](http://google.com)
+Bullet Points
+- 1
+- 2
+- 3
