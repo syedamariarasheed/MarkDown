@@ -25,8 +25,7 @@ public class Average {
 }
 ```
 
-[Click this link](http://google.com)
-\n
+
 Bullet Points
 - 1
 - 2
@@ -42,6 +41,7 @@ To do list
 - [x] Task 2
 - [ ] Task 3
 
+[Click this,To Create link](http://google.com)
 
 First Header | Second Header | Third Header
 ------------ | ------------- | -----------
