@@ -50,5 +50,5 @@ Content in the first column | Content in the second column | Content in the thir
 Content in the first column | Content in the second column | Content in the third column
 Content in the first column | Content in the second column | Content in the third column
 Content in the first column | Content in the second column | Content in the third column
-
+Add Image on MD file:
 ![Pic on md file](https://github.com/syedamariarasheed/MarkDown/blob/master/picc.jpg)
