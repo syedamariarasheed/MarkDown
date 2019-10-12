@@ -24,7 +24,9 @@ public class Average {
     }
 }
 ```
+
 [Click this link](http://google.com)
+\n
 Bullet Points
 - 1
 - 2
